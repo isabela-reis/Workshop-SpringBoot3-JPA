@@ -1,16 +1,18 @@
 # Web services
 
-Este projeto implementa web services utilizando várias tecnologias e padrões.
+Este projeto consiste em um sistema de comércio que permite aos usuários  fazerem pedidos, escolhendo entre os produtos cadastrados  para venda, o sistema também é responsável por calcular o total do pedido, levando em consideração todos os itens adicionados e uma vez que o pedido é feito, o sistema processa os pagamentos. Além disso, o sistema mantém um registro detalhado das informações do usuário, incluindo seu cadastro e histórico de pedidos. Isso permite um serviço personalizado e eficiente, melhorando a experiência geral do usuário.
+
+ 
 
 ## ⚒️ Recursos
 
-- **ORM com JPA / Hibernate**: Foi utilizado o Mapeamento Objeto-Relacional (ORM) para facilitar a persistência e recuperação de dados.
-- **Padrão camadas**: Para separar as responsabilidades do código.
-- **Web e HTTP**
-- **REST / web services**: Foram implementados serviços web RESTful.
-- **Modelo de domínio complexo**: O projeto possui um modelo de domínio complexo.
-- **Maven**: O gerenciamento de dependências é feito através do Maven.
-- **Banco de dados H2**: Foi utilizado o banco de dados H2 para armazenamento de dados.
-- **Spring Data JPA**: O acesso ao banco de dados é facilitado pelo Spring Data JPA.
+- **ORM com JPA / Hibernate**
+- **Padrão camadas**
+- **Protocolos Web e HTTP**
+- **REST / Web services**
+- **Modelo de domínio complexo**
+- **Maven**
+- **Banco de dados H2**
+- **Spring Data JPA**
 - **CRUD completo**
-- **Tratamento de exceções**: Para garantir a robustez do projeto.
+- **Tratamento de exceções**
